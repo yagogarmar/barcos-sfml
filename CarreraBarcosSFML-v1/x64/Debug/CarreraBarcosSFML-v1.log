@@ -1,0 +1,9 @@
+﻿  CarreraBarcosSFML-v1.cpp
+C:\Users\yagog\OneDrive - Centre d'Estudis Monlau\Monlau\GS 2023 -\1DAM\M5\VisualStudio\CarreraBarcosSFML-v1\CarreraBarcosSFML-v1\CarreraBarcosSFML-v1.cpp(21,16): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\yagog\OneDrive - Centre d'Estudis Monlau\Monlau\GS 2023 -\1DAM\M5\VisualStudio\CarreraBarcosSFML-v1\CarreraBarcosSFML-v1\CarreraBarcosSFML-v1.cpp(22,16): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\yagog\OneDrive - Centre d'Estudis Monlau\Monlau\GS 2023 -\1DAM\M5\VisualStudio\CarreraBarcosSFML-v1\CarreraBarcosSFML-v1\CarreraBarcosSFML-v1.cpp(24,21): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\yagog\OneDrive - Centre d'Estudis Monlau\Monlau\GS 2023 -\1DAM\M5\VisualStudio\CarreraBarcosSFML-v1\CarreraBarcosSFML-v1\CarreraBarcosSFML-v1.cpp(25,21): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\yagog\OneDrive - Centre d'Estudis Monlau\Monlau\GS 2023 -\1DAM\M5\VisualStudio\CarreraBarcosSFML-v1\CarreraBarcosSFML-v1\CarreraBarcosSFML-v1.cpp(36,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\yagog\OneDrive - Centre d'Estudis Monlau\Monlau\GS 2023 -\1DAM\M5\VisualStudio\CarreraBarcosSFML-v1\CarreraBarcosSFML-v1\CarreraBarcosSFML-v1.cpp(268,79): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\yagog\OneDrive - Centre d'Estudis Monlau\Monlau\GS 2023 -\1DAM\M5\VisualStudio\CarreraBarcosSFML-v1\CarreraBarcosSFML-v1\CarreraBarcosSFML-v1.cpp(269,83): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  CarreraBarcosSFML-v1.vcxproj -> C:\Users\yagog\OneDrive - Centre d'Estudis Monlau\Monlau\GS 2023 -\1DAM\M5\VisualStudio\CarreraBarcosSFML-v1\x64\Debug\CarreraBarcosSFML-v1.exe
